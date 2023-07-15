@@ -1,0 +1,27 @@
+[
+    {
+      "item": "Item 1",
+      "category": "Category A"
+    },
+    {
+      "item": "Item 2",
+      "category": "Category B"
+    },
+    {
+      "item": "Item 3",
+      "category": "Category A"
+    },
+    {
+      "item": "Item 4",
+      "category": "Category C"
+    },
+    {
+      "item": "Item 5",
+      "category": "Category B"
+    },
+    {
+      "item": "Item 6",
+      "category": "Category C"
+    }
+  ]
+  
